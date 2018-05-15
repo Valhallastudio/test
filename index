@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script src="/src/three.js"></script>
-    <script src="/src/Detector.js"></script>
-    <script src="/src/OrbitControls.js"></script>
-    <script src="/src/OBJLoader.js"></script>
-    <script src="/src/MTLLoader.js"></script>
+    <script src="three.js"></script>
+    <script src="Detector.js"></script>
+    <script src="OrbitControls.js"></script>
+    <script src="OBJLoader.js"></script>
+    <script src="MTLLoader.js"></script>
 
     <style>
         body {
